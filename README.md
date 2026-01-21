@@ -1,5 +1,4 @@
-# -ml-interviews-prep
-My ML interviews preparing
+# My ML interviews preparing
 [[ML assesment]]
 #собеседование 
 
