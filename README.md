@@ -74,3 +74,9 @@ https://rutube.ru/video/f69f01958dc60729c91b2916e9e785ed/
 
 Собеседование в Яндекс, АЛГОРИТМЫ | РАЗБОР ЗАДАЧ
 https://rutube.ru/video/b1f50db1befb669387dac088232506f0/
+
+###
+https://yandex.ru/project/rec-comms/robotics/cpp-python/high-level
+https://coderun.yandex.ru/catalog
+https://contest.yandex.ru/contest/8458/enter/
+https://education.yandex.ru/journal/algoritmicheskie-sobesedovaniya-v-yandekse-kak-podgotovitsya-i-chego-ozhidat
